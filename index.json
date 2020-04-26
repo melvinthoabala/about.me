@@ -3,21 +3,21 @@
     "name": "Tšepo Melvin Thoabala",
     "label": "Software Engineer",
     "image": "https://media-exp1.licdn.com/dms/image/C4D03AQHLpSbYQqdinQ/profile-displayphoto-shrink_200_200/0?e=1593648000&v=beta&t=CPC-146g_ZfjA6-1x9eXvelKLRZ3QNidk3fv_VuiDnA",
-    "email": "johndoe@gmail.com",
+    "email": "tmthoabala@gmail.com",
     "phone": "(027) 64-534-8759",
     "website": "coming soon",
     "summary": "Yeah I'm Awesome I know",
     "location": {
       "address": "Somewhere in the world",
       "postalCode": "8005",
-      "city": "Calamba",
+      "city": "Sea Point",
       "countryCode": "ZA",
       "region": "South Africa"
     },
     "profiles": [{
-      "network": "Twitter",
-      "username": "johndoe",
-      "url": "http://twitter.com/johndoe"
+      "network": "github",
+      "username": "melvinthoabala",
+      "url": "https://github.com/melvinthoabala"
     }]
   },
   "work": [{
@@ -71,9 +71,11 @@
     "name": "Web Development",
     "level": "Master",
     "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
+      "PHP",
+      "Python",
+      "Javascript",
+      "Go",
+      "Docker"
     ]
   }],
   "languages": [{
