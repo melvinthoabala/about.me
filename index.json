@@ -6,7 +6,7 @@
     "email": "johndoe@gmail.com",
     "phone": "(027) 64-534-8759",
     "website": "coming soon",
-    "summary": "Yeah I\'m Awesome I know",
+    "summary": 'Yeah I\'m Awesome I know',
     "location": {
       "address": "Somewhere in the world",
       "postalCode": "8005",
