@@ -26,16 +26,30 @@
     }]
   },
   "work": [{
-    "company": "Company",
-    "position": "Developer",
-    "website": "http://somecompany.com",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "company": "Superbalist",
+    "position": "Software Engineer",
+    "website": "https://Superbalist.com",
+    "startDate": "2017-08-01",
+    "endDate": "Present",
+    "summary": "I work in a team called checkout and fullfilment some of our KPI include Checkout conversion, drive down delivery expenditure and Checkout performance",
     "highlights": [
-      "Lead Developer of Innovation hub"
+      "Creating new 3rd party integration and implementing circuit breakers to help with fallback between old and new APIs",
+      "Lead major initiatives like finding ways to reduce deliveries per order ratio, deliver on promise and reducing contact per order ratio.",
+      "Creating various alerts such as payment method/provider not responding or responding with a 5XX status code. Using SQL scraper and prometheus we collect data from several services and generate reports and alerts which are send to our slack alert channels."
     ]
-  }],
+  },
+  {
+    "company": "Takealot",
+    "position": "Software Engineer",
+    "website": "https://Takealot.com",
+    "startDate": "2017-08-01",
+    "endDate": "Present",
+    "highlights": [
+      "Migrated legacy project to run and deploy in kubernates",
+      "Created new app using python flask and mongoDB, the app read from old MySQL database, cleaned data and exported it in a new json format that was stored in MongoDB"
+    ]
+  }
+],
   "volunteer": [{
     "organization": "Organization",
     "position": "Volunteer",
