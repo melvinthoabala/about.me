@@ -42,11 +42,24 @@
     "company": "Takealot",
     "position": "Software Engineer",
     "website": "https://Takealot.com",
-    "startDate": "2017-08-01",
-    "endDate": "Present",
+    "startDate": "2017-06-06",
+    "endDate": "2017-07-31",
     "highlights": [
       "Migrated legacy project to run and deploy in kubernates",
       "Created new app using python flask and mongoDB, the app read from old MySQL database, cleaned data and exported it in a new json format that was stored in MongoDB"
+    ]
+  },
+  {
+    "company": "Population Service International",
+    "position": "IT Support Officer",
+    "website": "http://www.psi.co.ls/",
+    "startDate": "2017-06-06",
+    "endDate": "2017-07-31",
+    "highlights": [
+      "Setting up user profiles, emails, and issuing access passes for new employees and assisting in all password-related issues",
+      "Install and configure computer hardware operating systems and applications",
+      "Conduct electrical safety checks on computer equipment.",
+      "Provide support, including procedural documentation and relevant reports"
     ]
   }
 ],
